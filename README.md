@@ -25,7 +25,7 @@ It is a stock market analysis dashboard that provides **real-time stock data, pr
 
 1. **Clone the repository**
    ```sh
-   git clone 
+   git clone https://github.com/MPar9801/itw2app.git
    cd stock-analysis-dashboard
    ```
 
